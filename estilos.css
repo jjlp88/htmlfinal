@@ -1,0 +1,91 @@
+html
+{
+	background-image: url("fons.jpg");
+	width: 1024px;
+	padding-left: 300px;
+}
+
+p0
+{
+	margin-left: 255px;
+	font-weight: bold;
+	font-size: 20px;
+	color: #B1420E;
+}
+
+p1
+{
+	font-family: Times New Roman;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.marca
+{
+	text-align: right;
+	font-size: 14px;
+	margin-right: 150px;
+	border-top: #14A19C 6px double;
+	
+}
+
+.portal
+{
+	margin-left: 255px;
+	font-weight: bold;
+	font-size: 26px;
+	color: #0D6E6B;
+}
+
+.foto1
+{
+	padding-left: 70px;
+}
+
+.foto2
+{
+	padding-left: 180px;
+}
+
+.foto3
+{
+	padding-left: 180px;
+}
+
+.imagen
+{
+	border-bottom: #14A19C 6px double;
+	margin-right: 150px;	
+}
+
+#formulario
+{
+	background-color: #D2ECF7;
+	width: 72%;
+	margin-left: 80px;
+	
+}
+
+p2
+{
+	margin-left: 290px;
+	font-weight: bold;
+	font-size: 20px;
+	color: #B1420E;
+}
+
+.tabla
+{
+	font-size: 14px;
+	border: black 1px solid;
+	text-align: center;
+	margin-left: 20px;
+}
+
+.fila
+{
+	background-color: #0C7571;
+	color: white;
+	font-weight: bold;
+}
